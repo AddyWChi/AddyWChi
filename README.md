@@ -5,5 +5,5 @@ I know something about these things:
 - VueJs 
 - Arduino automation
 - DICOM and DICOM structure report processing
-- Organize testing trials in software which specializes in lung nodules detection
-In near future, I think I will experiment combining Arduino automation and reporting.  
+- Organize testing trials in software which specializes in lung nodules detection 
+In near future, I will experiment combining Arduino automation and reporting.  
